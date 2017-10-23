@@ -221,10 +221,24 @@ pre {
   text-align: center;
   background: #fff;
   line-height: 0;
-  height: 180px;
+  height: 200px;
   width: 100%;
-  background: #464853 url(http://oxz5d4xmy.bkt.clouddn.com/62cf79c8676b43a373ee0aa901a5ae97.jpg);
+  background: #464853 url(http://oxz5d4xmy.bkt.clouddn.com/hero-bg-99.png);
 }
+.blogtitle {
+  margin: 0 0 1px 0;
+  font-size: 2.5em;
+  letter-spacing: 4px;
+  color: #FFF; 
+  padding:10px 0;
+  }
+  .subblogtitle {
+  margin: 0 0 2px 0;
+  font-size: 1.5em;
+  letter-spacing: 0.5px;
+  color: #FFF; 
+  padding:20px 0;
+  }
 .main-header .banneriframe {
   width: 100%;
   height: 100%;
@@ -235,6 +249,7 @@ pre {
   width: 100%;
   padding-top: 30px;
 }
+
 .main-header .main-header-box .branding {
   color: #303030;
 }
