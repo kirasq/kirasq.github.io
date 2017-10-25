@@ -225,6 +225,29 @@ pre {
   width: 100%;
   background: #464853 url(http://oxz5d4xmy.bkt.clouddn.com/hero-bg-99.png);
 }
+.site-author-image {
+  display: block;
+  margin: 0 auto;
+  padding: 2px;
+  max-width: 120px;
+  height: auto;
+  border: 1px solid #eee;
+}
+.site-author-name {
+  margin: 0;
+  text-align: center;
+  color: #222;
+  font-weight: 600;
+}
+.use-motion .sidebar .motion-element {
+  opacity: 1;
+}
+.site-description {
+  margin-top: 0;
+  text-align: center;
+  font-size: 13px;
+  color: #999;
+}
 .blogtitle {
   margin: 0 0 1px 0;
   font-size: 2.5em;
